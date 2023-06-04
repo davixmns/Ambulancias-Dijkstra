@@ -21,8 +21,6 @@ var timerId;
 var timerId2;
 var time;
 
-
-
 function dijkstra(startNode, endNode) {
   // Cria uma matriz para representar a grade e definir distâncias iniciais
   var distances = [];
