@@ -499,7 +499,7 @@ function getPositionOnClick() {
         eraseBothPath(path);
         eraseBothPath(path2);
 
-        this.style.backgroundColor = "yellow";
+        this.style.backgroundColor = "black";
 
       }, 3000);
     });
